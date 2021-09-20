@@ -1,0 +1,94 @@
+[
+    {
+      "name": "Seabiscuit",
+      "weight": "50kg",
+      "length": "35cm",
+      "hobbies": "sailing",
+      "motto": "long and strong",
+      "handicap": 5,
+      "image": "",
+      "id": 1
+    },
+    {
+      "name": "Native Dancer",
+      "weight": "50kg",
+      "length": "35cm",
+      "hobbies": "herding",
+      "motto": "born to run",
+      "handicap": 7,
+      "image": "",
+      "id": 2
+    },
+    {
+      "name": "Bust-a-Move",
+      "weight": "50kg",
+      "length": "35cm",
+      "hobbies": "breeding",
+      "motto": "better red than dead",
+      "handicap": 7,
+      "image": "",
+      "id": 3
+    },
+    {
+      "name": "Doctor Strange",
+      "weight": "50kg",
+      "length": "35cm",
+      "hobbies": "the culinary arts",
+      "motto": "somebody stop me",
+      "handicap": 7,
+      "image": "",
+      "id": 4
+    },
+    {
+      "name": "Zenyatta",
+      "weight": "50kg",
+      "length": "35cm",
+      "hobbies": "philosophical inquiry",
+      "motto": "king of pain",
+      "handicap": 7,
+      "image": "",
+      "id": 5
+    },
+    {
+      "name": "Tabasco Cat",
+      "weight": "50kg",
+      "length": "35cm",
+      "hobbies": "golf",
+      "motto": "too hot",
+      "handicap": 7,
+      "image": "",
+      "id": 6
+    },
+    {
+      "name": "War Emblem",
+      "weight": "50kg",
+      "length": "35cm",
+      "hobbies": "travel",
+      "motto": "international dog of mystery",
+      "handicap": 7,
+      "image": "",
+      "id": 2
+    },
+    {
+      "name": "Jack",
+      "weight": "50kg",
+      "length": "35cm",
+      "hobbies": "herding",
+      "motto": "born to run",
+      "handicap": 7,
+      "image": "",
+      "id": 8
+    },
+    {
+      "name": "Lexie",
+      "weight": "50kg",
+      "length": "35cm",
+      "hobbies": "lacrosse",
+      "motto": "you might get in, but you will not get out",
+      "handicap": 7,
+      "image": "",
+      "id": 9
+    }
+    
+
+  ]
